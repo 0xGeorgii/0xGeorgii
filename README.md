@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [SharpLogc](https://github.com/GeorgePlotnikov/SharpLogic). Open source F# mathematical logic library.
 - 🤔 I’m looking for help with
   - 💡[Atom (expression) design](https://github.com/GeorgePlotnikov/SharpLogic/discussions/25)
-  - 💡[Introduce 'forall'](https://github.com/GeorgePlotnikov/SharpLogic/discussions/26)
+  - 💡[Universal quantification design](https://github.com/GeorgePlotnikov/SharpLogic/discussions/26)
   - 💡[Development should be based on the test data. What should be done accordingly?](https://github.com/GeorgePlotnikov/SharpLogic/discussions/27)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeplotnikov&show_icons=true&theme=dracula)
