@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on [SharpLogc](https://github.com/GeorgePlotnikov/SharpLogic). Open source F# mathematical logic library.
+- 🤔 I’m looking for help with
+  - [Atom (expression) design](https://github.com/GeorgePlotnikov/SharpLogic/discussions/25)
+  - [Introduce 'forall'](https://github.com/GeorgePlotnikov/SharpLogic/discussions/26)  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeplotnikov&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeplotnikov&theme=dracula)](https://github.com/georgeplotnikov/github-readme-stats)
