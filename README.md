@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [SharpLogc](https://github.com/GeorgePlotnikov/SharpLogic). Open source F# mathematical logic library.
+- 👯 I’m looking to collaborate on [SharpLogc](https://github.com/GeorgePlotnikov/SharpLogic). There are many features to add to the solition. Everyone is welcome to contribute!
 - 🤔 I’m looking for help with
-  - 💡[Atom (expression) design](https://github.com/GeorgePlotnikov/SharpLogic/discussions/25)
   - 💡[Universal quantification design](https://github.com/GeorgePlotnikov/SharpLogic/discussions/26)
   - 💡[Using ILTP test data for development](https://github.com/GeorgePlotnikov/SharpLogic/discussions/27)
 
