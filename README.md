@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   - 💡[Using ILTP test data for development](https://github.com/GeorgePlotnikov/SharpLogic/discussions/27)
 -->
 
+![visitors](https://visitor-badge.deta.dev/badge?page_id=georgeplotnikov/georgeplotnikov)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeplotnikov&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeplotnikov&theme=dracula)](https://github.com/georgeplotnikov/github-readme-stats)
