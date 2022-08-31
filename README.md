@@ -13,16 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-- 🔭 I’m currently working on [SharpLogc](https://github.com/GeorgePlotnikov/SharpLogic). Open source F# mathematical logic library.
-- 👯 I’m looking to collaborate on [SharpLogc](https://github.com/GeorgePlotnikov/SharpLogic). There are many features to add to the solition. Everyone is welcome to contribute!
-- 🤔 I’m looking for help with
-  - 💡[Universal quantification design](https://github.com/GeorgePlotnikov/SharpLogic/discussions/26)
-  - 💡[Using ILTP test data for development](https://github.com/GeorgePlotnikov/SharpLogic/discussions/27)
--->
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=georgeplotnikov/georgeplotnikov)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=georgeplotnikov/georgeplotnikov) [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40georgeplotnikov)](https://twitter.com/georgeplotnikov)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeplotnikov&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeplotnikov&theme=dracula)](https://github.com/georgeplotnikov/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeplotnikov&show_icons=true&theme=dark)
