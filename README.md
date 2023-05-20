@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![visitors](https://visitor-badge.deta.dev/badge?page_id=georgeplotnikov/georgeplotnikov)
 [![Twitter Follow](https://img.shields.io/twitter/follow/georgeplotnikov?style=plastic&logo=twitter)](https://twitter.com/georgeplotnikov)
